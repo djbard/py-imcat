@@ -7,7 +7,7 @@ Translations of perl wrapper scripts that are used to run the programs included 
 
 Original perl scripts: by Phil Marshall and Marusa Bradac. 
 
-Python scripts: by Maria Elideaina, Mandeep Gill and Debbie Bard. 
+Python scripts: by Maria Elidaiana, Mandeep Gill and Debbie Bard. 
 
 imcat code (by Nick Kaiser) can be obtained from:
 http://www.ifa.hawaii.edu/~kaiser/imcat/
